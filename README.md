@@ -15,7 +15,7 @@ Key tables used in the analysis
 
 | Table | Description |
 |------|-------------|
-| orders | Contains order-level information including timestamps and delivery dates |
+| orders | Contains order information including timestamps and delivery dates |
 | order_items | Contains individual products within each order |
 | order_payments | Contains payment transactions for orders |
 | products | Contains product category information |
