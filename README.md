@@ -54,4 +54,7 @@ One challenge in the dataset is that the order_payments table contains multiple 
 Joining this table directly with other tables can cause row multiplication, which impacts revenue calculations.
 To resolve this issue, an aggregated view was created to calculate one total payment value per order**.
 
+Dataset is too large to upload
+Dataset URL: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 
