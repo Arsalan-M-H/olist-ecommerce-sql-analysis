@@ -50,6 +50,7 @@ This project demonstrates the use of several important SQL concepts used in real
 
 
 Handling Join Duplication
+
 One challenge in the dataset is that the order_payments table contains multiple rows per order due to payment installments.
 Joining this table directly with other tables can cause row multiplication, which impacts revenue calculations.
 To resolve this issue, an aggregated view was created to calculate one total payment value per order**.
